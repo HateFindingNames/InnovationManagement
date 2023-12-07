@@ -1,0 +1,17 @@
+/.aux
+/__MAIN_FILE.fls
+/__MAIN_FILE.synctex.gz
+*.blg
+buildfiles/__MAIN_FILE.aux
+buildfiles/__MAIN_FILE.bcf
+buildfiles/__MAIN_FILE.fdb_latexmk
+buildfiles/__MAIN_FILE.lof
+buildfiles/__MAIN_FILE.log
+buildfiles/__MAIN_FILE.lot
+buildfiles/__MAIN_FILE.nlo
+buildfiles/__MAIN_FILE.run.xml
+buildfiles/__MAIN_FILE.toc
+buildfiles/chapters/1_chap.aux
+buildfiles/chapters/2_chap.aux
+buildfiles/__MAIN_FILE.bbl
+buildfiles/__MAIN_FILE.synctex(busy)
